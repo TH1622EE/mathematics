@@ -6,7 +6,7 @@
 
 $$
 \begin{equation}
-    \text{\{A, B\}, \{B, A\}, \{B, C\}, \{C, B\}, \{A, C\}, \{C, A\}}
+    \text{(A, B), (B, A), (B, C), (C, B), (A, C), (C, A)}
 \end{equation}
 $$
 
@@ -35,7 +35,7 @@ In the formula above (i.e., P(n,k)), it would be the same as saying *if given `n
 
 $$
 \begin{align}
-    \text{\{A, B\}, \{B, C\}, \{C, A\}}
+    \text{(A, B), (B, C), (C, A)}
 \end{align}
 $$
 

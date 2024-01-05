@@ -43,7 +43,7 @@ When calculating *combinations*, different arrangements (ordering) of the same v
 
 $$
 \begin{equation}
-    C(n,k) = \dfrac{n!}{(n-k)!}
+    C(n,k) = \dfrac{n!}{k!(n-k)!}
 \end{equation}
 $$
 
